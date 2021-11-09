@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌇 Gurgaon, India
 - ✨ C / C++, Java, PHP, Python, HTML, CSS, JavaScript, Jquery, Bootstarp 4, React, SQL
 - ✳️ Django, FastAPI, Node
-- 🎇 Ethical Hacking, Web Sracping, Automation, Bot building and Misuing Python 😆
+- 🎇 Ethical Hacking, Web Sracping, Automation, Bot building and Misusing Python 😆
 
 #### Work
 - Ex - Full stack developer @ Tata Consultancy Services ( https://www.tcs.com )
