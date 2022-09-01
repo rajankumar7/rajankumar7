@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irajankumar&label=Profile%20views&color=0e75b6&style=flat" alt="irajankumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajankumar7&label=Profile%20views&color=0e75b6&style=flat" alt="rajankumar7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irajankumar" alt="irajankumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajankumar7" alt="rajankumar7" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajankumar7](https://github.com/rajankumar7)
 
